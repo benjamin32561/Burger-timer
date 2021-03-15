@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/willis.iml" filepath="$PROJECT_DIR$/willis.iml" />
-      <module fileurl="file://$PROJECT_DIR$/android/willis_android.iml" filepath="$PROJECT_DIR$/android/willis_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/burger_timer.iml" filepath="$PROJECT_DIR$/burger_timer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/burger_timer_android.iml" filepath="$PROJECT_DIR$/android/burger_timer_android.iml" />
     </modules>
   </component>
 </project>

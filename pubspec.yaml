@@ -1,5 +1,5 @@
-name: willis
-description: A new Flutter application.
+name: burger_timer
+description: A 6 burger Timer
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `pub publish`. This is preferred for private packages.
